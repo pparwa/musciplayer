@@ -1,0 +1,10 @@
+.loc{
+    top: 200px;
+    left: 35%;
+    height: 450px;
+}
+.imgsize{
+    height: 200px;
+    background-size: cover;
+    width: 100%;
+}
